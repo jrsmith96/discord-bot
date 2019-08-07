@@ -9,6 +9,11 @@
   "author": "Jake Smith",
   "license": "ISC",
   "dependencies": {
+    "config": "^3.2.2",
     "discord.js": "^11.5.1"
+  },
+  "devDependencies": {
+    "eslint": "^6.1.0",
+    "eslint-config-google": "^0.13.0"
   }
 }
